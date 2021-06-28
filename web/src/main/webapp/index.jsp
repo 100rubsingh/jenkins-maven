@@ -13,7 +13,7 @@
 <body>
 	<p></p> 
 	<h1>I am from ec2 maven</h1>
-<h1>hi i am just pushed from the developer machine</h1>
+<h1>pushing from git hub</h1>
   <p>
     This is a very simple example web page on a JSP.
   </p>
